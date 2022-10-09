@@ -1,5 +1,7 @@
 # Lambda_Function
 
+you can use this Lambda function for any AWS resource for which notification should be publish in case of any event. In this Example i have used EC2 as example.  
+
 Requirment: 
 
 1. EC2 instance should be created
